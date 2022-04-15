@@ -1,5 +1,5 @@
 ## About This App
-This is a mock Chat Room Application built with React during Day 2 of an 50 Days of React Udemy Course.
+This is a mock Chat Room Application built with React during Day 2 of a 50 Days of React Udemy Course.
 The application allows you to invite users (predefined in the API DB) to your chats, sign in, make new chats, and send messages or images to one another.
 
 ## How To Install
