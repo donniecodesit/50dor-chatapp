@@ -1,6 +1,6 @@
 ## About This App
-This is a mock Chat Room Application built with React during Day 2 of a 50 Days of React Udemy Course.
-The application allows you to invite users (predefined in the API DB) to your chats, sign in, make new chats, and send messages or images to one another.
+React project made during Day 2 of "50 Days of React" by Sufa Digital Media on Udemy.
+This app is a mock chat room app where you can invite users (predefined in the API DB) to virtual chat rooms, sign in, make new chats, and exchange messages or images with one another.
 
 ## How To Install
 - Download/Clone this repository and run `npm install` to install dependencies.
